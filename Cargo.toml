@@ -11,5 +11,5 @@ iron = "0.5.1"
 plugin = "0.2.6"
 
 [dependencies.cookie]
-version = "0.8"
+version = "0.7"
 features = ["secure"]
